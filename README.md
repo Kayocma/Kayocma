@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/Kayocma/Kayocma/assets/144290540/0f4cf239-980d-417b-adc8-fddf71a9e660">
 
 # Kayo Cézar
 
